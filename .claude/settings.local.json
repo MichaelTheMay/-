@@ -1,0 +1,8 @@
+{
+  "outputStyle": "first-principles-no-edge-vowels",
+  "permissions": {
+    "allow": [
+      "WebSearch"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Cr dpndncs
+cmufx>=0.4.0
+pydntc>=2.0.0
+PyYML>=6.0
+
+# ptnl dpndncs fr dvncd ftrs
+# pnds  # Fr dt nlss
+# sqlchm  # Fr mr dvncd DB prtsns
